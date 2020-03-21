@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "93431516243",
+    "firebase_url": "https://twiliovoice-503e6.firebaseio.com",
+    "project_id": "twiliovoice-503e6",
+    "storage_bucket": "twiliovoice-503e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93431516243:android:80fe6bcdd08b32bff80aa6",
+        "android_client_info": {
+          "package_name": "com.example.voice_chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93431516243-td1qp1s7mqa8enr6oe30ajnaknf8hhr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voice_chatting",
+            "certificate_hash": "4cd1ab313ed93ab144cb3fff9dbd7954fa62c59b"
+          }
+        },
+        {
+          "client_id": "93431516243-0i5g6js36lk87jkue9osep3354hgk06a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqXxGkbDozlWLG0piK1qS53B6QmmwUa7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93431516243-0i5g6js36lk87jkue9osep3354hgk06a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
